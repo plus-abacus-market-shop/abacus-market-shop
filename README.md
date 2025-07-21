@@ -75,4 +75,6 @@ Always prioritize security when accessing darknet platforms. Use verified **Abac
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/modules/table.webp" alt="Secure Abacus Market Shop Login" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/modules/hide.webp" alt="Registering with Abacus Market Shop" style="max-width: 100%;"></a>
 
-Update: Link validation
+
+
+Update: link is operational and accessible
