@@ -85,4 +85,6 @@ Always prioritize security when accessing darknet platforms. Use verified **Abac
 
 
 
-Update:  19 August 2025 Link is now clickable and functioning
+
+
+Update:  23.08.2025
